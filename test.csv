@@ -1,0 +1,31 @@
+Age,Race,Marital Status,T Stage ,N Stage,6th Stage,differentiate,Grade,A Stage,Tumor Size,Estrogen Status,Progesterone Status,Regional Node Examined,Reginol Node Positive,Survival Months,Status
+46,Other,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,30,Positive,Positive,19,10,31,Alive
+51,White,Married,T3,N3,IIIC,Poorly differentiated,3,Regional,80,Positive,Positive,20,12,79,Alive
+62,White,Single ,T1,N1,IIA,Poorly differentiated,3,Regional,20,Positive,Positive,1,1,60,Alive
+55,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,55,Positive,Positive,4,2,74,Alive
+57,White,Divorced,T1,N1,IIA,Poorly differentiated,3,Regional,6,Negative,Negative,2,1,68,Alive
+41,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,45,Positive,Positive,10,2,50,Alive
+55,White,Married,T3,N1,IIIA,Well differentiated,1,Regional,76,Positive,Positive,2,2,88,Alive
+66,Other,Married,T2,N1,IIB,Moderately differentiated,2,Regional,22,Positive,Positive,14,1,80,Alive
+34,White,Married,T1,N1,IIA,Poorly differentiated,3,Regional,15,Positive,Positive,11,1,69,Alive
+37,White,Single ,T2,N3,IIIC,Poorly differentiated,3,Distant,35,Positive,Positive,18,18,77,Alive
+59,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,35,Positive,Positive,16,2,56,Alive
+58,White,Divorced,T2,N1,IIB,Moderately differentiated,2,Regional,25,Positive,Positive,15,1,63,Alive
+64,Black,Widowed,T2,N1,IIB,Poorly differentiated,3,Regional,37,Positive,Positive,1,1,78,Alive
+50,White,Married,T2,N1,IIB,Well differentiated,1,Regional,28,Positive,Positive,28,2,51,Alive
+69,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,40,Positive,Positive,22,5,58,Alive
+56,White,Divorced,T2,N1,IIB,Well differentiated,1,Regional,30,Positive,Positive,4,1,84,Alive
+57,White,Married,T3,N1,IIIA,Well differentiated,1,Regional,80,Positive,Positive,15,3,89,Alive
+46,White,Married,T2,N1,IIB,Moderately differentiated,2,Regional,30,Positive,Positive,12,2,80,Alive
+65,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,56,Positive,Negative,14,7,87,Alive
+59,White,Married,T2,N2,IIIA,Moderately differentiated,2,Regional,30,Positive,Positive,18,4,11,Alive
+67,White,Married,T3,N3,IIIC,Moderately differentiated,2,Regional,100,Positive,Negative,17,17,39,Dead
+56,White,Divorced,T2,N3,IIIC,Poorly differentiated,3,Regional,24,Negative,Negative,21,13,37,Dead
+33,Black,Single ,T2,N2,IIIA,Poorly differentiated,3,Regional,28,Positive,Positive,22,6,75,Dead
+46,White,Married,T2,N1,IIB,Poorly differentiated,3,Regional,30,Negative,Positive,15,2,88,Dead
+63,White,Married,T3,N2,IIIA,Moderately differentiated,2,Regional,60,Positive,Negative,8,5,87,Dead
+66,White,Divorced,T1,N1,IIA,Moderately differentiated,2,Regional,17,Positive,Negative,16,1,24,Dead
+56,White,Married,T3,N1,IIIA,Moderately differentiated,2,Regional,80,Negative,Negative,24,3,47,Dead
+52,White,Divorced,T2,N2,IIIA,Poorly differentiated,3,Regional,50,Positive,Negative,7,7,17,Dead
+38,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,7,Positive,Negative,32,3,7,Dead
+36,Other,Single ,T2,N1,IIB,Well differentiated,1,Regional,28,Positive,Positive,21,1,28,Dead
